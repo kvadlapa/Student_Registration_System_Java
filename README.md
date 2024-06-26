@@ -7,3 +7,7 @@
 4. Deletion of the student records
 5. Display the student records
 
+## Desired software/skills to be used in this project
+1. Java
+2. MySQL
+3. 
